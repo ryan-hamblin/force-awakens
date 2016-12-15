@@ -37,5 +37,5 @@ function startClock(id, end) {
   var timeinterval = setInterval(countDown, 1000);
 }
 
-var deadline = 'December 18 2015 00:00:50 UTC+0200';
+var deadline = 'December 15 2017 00:00:50 UTC+0200';
 startClock('clockdiv', deadline);
